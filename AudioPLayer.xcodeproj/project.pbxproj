@@ -7,15 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		636F401D1CE2520F00775F6B /* ghostbusters.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 636F40181CE2520F00775F6B /* ghostbusters.mp3 */; };
+		636F401E1CE2520F00775F6B /* killbill.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 636F40191CE2520F00775F6B /* killbill.mp3 */; };
+		636F401F1CE2520F00775F6B /* mad.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 636F401A1CE2520F00775F6B /* mad.mp3 */; };
+		636F40201CE2520F00775F6B /* sweethomealabama.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 636F401B1CE2520F00775F6B /* sweethomealabama.mp3 */; };
+		636F40211CE2520F00775F6B /* titanic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 636F401C1CE2520F00775F6B /* titanic.mp3 */; };
 		637C4EC11CDD1EB400787E88 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637C4EC01CDD1EB400787E88 /* AppDelegate.swift */; };
 		637C4EC31CDD1EB400787E88 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637C4EC21CDD1EB400787E88 /* ViewController.swift */; };
 		637C4EC61CDD1EB400787E88 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 637C4EC41CDD1EB400787E88 /* Main.storyboard */; };
 		637C4EC91CDD1EB400787E88 /* AudioPLayer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 637C4EC71CDD1EB400787E88 /* AudioPLayer.xcdatamodeld */; };
 		637C4ECB1CDD1EB400787E88 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 637C4ECA1CDD1EB400787E88 /* Assets.xcassets */; };
 		637C4ECE1CDD1EB400787E88 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 637C4ECC1CDD1EB400787E88 /* LaunchScreen.storyboard */; };
+		637C4EDC1CDD1FFF00787E88 /* cover-mad.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 637C4ED61CDD1FFF00787E88 /* cover-mad.JPG */; };
+		637C4EE71CDD252300787E88 /* cover-ghostbusters.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 637C4EE11CDD252300787E88 /* cover-ghostbusters.jpg */; };
+		637C4EE81CDD252300787E88 /* cover-killbill.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 637C4EE21CDD252300787E88 /* cover-killbill.jpeg */; };
+		637C4EE91CDD252300787E88 /* cover-titanic.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 637C4EE31CDD252300787E88 /* cover-titanic.jpg */; };
+		637C4EF01CDD26CB00787E88 /* btn-pause.png in Resources */ = {isa = PBXBuildFile; fileRef = 637C4EED1CDD26CB00787E88 /* btn-pause.png */; };
+		637C4EF11CDD26CB00787E88 /* btn-play.png in Resources */ = {isa = PBXBuildFile; fileRef = 637C4EEE1CDD26CB00787E88 /* btn-play.png */; };
+		637C4EF21CDD26CB00787E88 /* btn-stop.png in Resources */ = {isa = PBXBuildFile; fileRef = 637C4EEF1CDD26CB00787E88 /* btn-stop.png */; };
+		637C4EF41CDD2BD200787E88 /* no-cover.gif in Resources */ = {isa = PBXBuildFile; fileRef = 637C4EF31CDD2BD200787E88 /* no-cover.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		636F40181CE2520F00775F6B /* ghostbusters.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ghostbusters.mp3; sourceTree = "<group>"; };
+		636F40191CE2520F00775F6B /* killbill.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = killbill.mp3; sourceTree = "<group>"; };
+		636F401A1CE2520F00775F6B /* mad.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = mad.mp3; sourceTree = "<group>"; };
+		636F401B1CE2520F00775F6B /* sweethomealabama.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sweethomealabama.mp3; sourceTree = "<group>"; };
+		636F401C1CE2520F00775F6B /* titanic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = titanic.mp3; sourceTree = "<group>"; };
 		637C4EBD1CDD1EB300787E88 /* AudioPLayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AudioPLayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		637C4EC01CDD1EB400787E88 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		637C4EC21CDD1EB400787E88 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +42,14 @@
 		637C4ECA1CDD1EB400787E88 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		637C4ECD1CDD1EB400787E88 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		637C4ECF1CDD1EB400787E88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		637C4ED61CDD1FFF00787E88 /* cover-mad.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cover-mad.JPG"; sourceTree = "<group>"; };
+		637C4EE11CDD252300787E88 /* cover-ghostbusters.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cover-ghostbusters.jpg"; sourceTree = "<group>"; };
+		637C4EE21CDD252300787E88 /* cover-killbill.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cover-killbill.jpeg"; sourceTree = "<group>"; };
+		637C4EE31CDD252300787E88 /* cover-titanic.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cover-titanic.jpg"; sourceTree = "<group>"; };
+		637C4EED1CDD26CB00787E88 /* btn-pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn-pause.png"; sourceTree = "<group>"; };
+		637C4EEE1CDD26CB00787E88 /* btn-play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn-play.png"; sourceTree = "<group>"; };
+		637C4EEF1CDD26CB00787E88 /* btn-stop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn-stop.png"; sourceTree = "<group>"; };
+		637C4EF31CDD2BD200787E88 /* no-cover.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "no-cover.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +82,19 @@
 		637C4EBF1CDD1EB400787E88 /* AudioPLayer */ = {
 			isa = PBXGroup;
 			children = (
+				636F40181CE2520F00775F6B /* ghostbusters.mp3 */,
+				636F40191CE2520F00775F6B /* killbill.mp3 */,
+				636F401A1CE2520F00775F6B /* mad.mp3 */,
+				636F401B1CE2520F00775F6B /* sweethomealabama.mp3 */,
+				636F401C1CE2520F00775F6B /* titanic.mp3 */,
+				637C4EF31CDD2BD200787E88 /* no-cover.gif */,
+				637C4EED1CDD26CB00787E88 /* btn-pause.png */,
+				637C4EEE1CDD26CB00787E88 /* btn-play.png */,
+				637C4EEF1CDD26CB00787E88 /* btn-stop.png */,
+				637C4EE11CDD252300787E88 /* cover-ghostbusters.jpg */,
+				637C4EE21CDD252300787E88 /* cover-killbill.jpeg */,
+				637C4EE31CDD252300787E88 /* cover-titanic.jpg */,
+				637C4ED61CDD1FFF00787E88 /* cover-mad.JPG */,
 				637C4EC01CDD1EB400787E88 /* AppDelegate.swift */,
 				637C4EC21CDD1EB400787E88 /* ViewController.swift */,
 				637C4EC41CDD1EB400787E88 /* Main.storyboard */,
@@ -127,8 +166,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				637C4ECE1CDD1EB400787E88 /* LaunchScreen.storyboard in Resources */,
+				636F40201CE2520F00775F6B /* sweethomealabama.mp3 in Resources */,
+				636F401F1CE2520F00775F6B /* mad.mp3 in Resources */,
+				637C4EE81CDD252300787E88 /* cover-killbill.jpeg in Resources */,
+				637C4EF41CDD2BD200787E88 /* no-cover.gif in Resources */,
+				636F40211CE2520F00775F6B /* titanic.mp3 in Resources */,
+				637C4EDC1CDD1FFF00787E88 /* cover-mad.JPG in Resources */,
+				637C4EE71CDD252300787E88 /* cover-ghostbusters.jpg in Resources */,
+				637C4EF21CDD26CB00787E88 /* btn-stop.png in Resources */,
 				637C4ECB1CDD1EB400787E88 /* Assets.xcassets in Resources */,
+				637C4EE91CDD252300787E88 /* cover-titanic.jpg in Resources */,
 				637C4EC61CDD1EB400787E88 /* Main.storyboard in Resources */,
+				636F401E1CE2520F00775F6B /* killbill.mp3 in Resources */,
+				637C4EF11CDD26CB00787E88 /* btn-play.png in Resources */,
+				637C4EF01CDD26CB00787E88 /* btn-pause.png in Resources */,
+				636F401D1CE2520F00775F6B /* ghostbusters.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,6 +343,7 @@
 				637C4ED41CDD1EB400787E88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
